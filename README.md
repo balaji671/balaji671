@@ -1,5 +1,5 @@
 # 💫 About Me:
-React.js Developer | Frontend Engineer<br><br>Passionate React.js developer with 2 years of experience building responsive and intuitive user interfaces. Skilled in crafting high-quality frontend solutions while staying up-to-date with industry trends and best practices. I thrive in collaborative environments and enjoy contributing to innovative projects that enhance user experience. Always eager to learn and refine my skills to deliver impactful web applications.
+**React.js Developer | Frontend Engineer**<br><br>Passionate React.js developer with 2 years of experience building responsive and intuitive user interfaces. Skilled in crafting high-quality frontend solutions while staying up-to-date with industry trends and best practices. I thrive in collaborative environments and enjoy contributing to innovative projects that enhance user experience. Always eager to learn and refine my skills to deliver impactful web applications.
 
 
 ## 🌐 Socials:
